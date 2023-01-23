@@ -2,12 +2,14 @@
     <string name="app_name">vitpul</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Vitpul app</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_home">vpn</string>
+    <string name="menu_gallery">terms of service</string>
+    <string name="menu_slideshow">about us</string>
+    <string name="text_about_us">This will be a text about us</string>
+    <string name="terms_of_service">All terms of this service will be here</string>
+    <string name="vpn_button">VPN</string>
 </resources>
